@@ -1,0 +1,51 @@
+.Target {
+  border: solid 4px #E69D3B;
+  border-radius: 300px;
+  width: 300px;
+  height: 301px;
+}
+
+.Target .TargetValue {
+  font-size: 15rem;
+  display: inline-block;
+  padding-top: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: #E69D3B;
+}
+
+.Logo {
+  width: 313.5px;
+  height: 114px;
+}
+
+header {
+  margin: 6rem;
+}
+
+.hot-temp {
+  color: #C72A0C;
+}
+
+.medium-temp {
+  color: #E69D3B;
+}
+
+.cool-temp {
+  color: #2BBEA8;
+}
+
+.secondary {
+  color: #ccc;
+}
+
+body {
+  text-align: center;
+  margin: auto;
+}
+
+.Outdoor { float: right; }
+.Indoor { float: left; }
+.DoorStatus { margin-top: 7rem; }
