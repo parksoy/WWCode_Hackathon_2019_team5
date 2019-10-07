@@ -1,4 +1,4 @@
-# WWCode IOT Hackathon
+# WWCode IOT Hackathon 2019
 # Team #5
 
 ## Project name : Homeostasis
@@ -66,14 +66,14 @@ Purpose: open or close the window
 
 ##### Part 5. IO hub
 Purpose:
-Web host for receiving internal temperature, humidity, realtime dashboard, sending to second Microcontroller to control servo based on user's logic
+Web host for receiving internal temperature, humidity, realtime dashboard, sending to the main Microcontroller to control servo based on user's logic
 
 
 [Click here to check out realtime dashboard!](io.adafruit.com/mabmierau/freds)
 
 [Reference for setup](https://learn.adafruit.com/remote-control-with-the-huzzah-plus-adafruit-io/arduino-setup)
 
-##### Part 6. Logic
+##### Part 6. Custom Logic
 
 To be published
 
