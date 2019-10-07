@@ -28,10 +28,10 @@ Current IOT climate control solutions focus on thermostat and ignore energy savi
 - Forecast monitoring to determine optimal time of day to open windows
 - Vacation mode for security
 
-### Live Demonstration:
+### Live Demonstration and Presentation:
 
-[Click here to watch in YouTube!](https://youtu.be/_4IsdoErZgk)
-
+[Click here to watch in YouTube!](https://youtu.be/_4IsdoErZgk)  
+see `Presentation Slides.pdf`
 
 ### Implementation: Hardware and Software
 ##### Part 1. Two Microcontrollers
